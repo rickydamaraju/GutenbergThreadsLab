@@ -5,9 +5,8 @@ import java.nio.file.*;
 import java.util.concurrent.*;
 
 /*
-Names: Partner A Name, Partner B Name
-Date: 2025-12-18
-Purpose: Single-thread vs multi-thread processing of large Project Gutenberg texts.
+Names: Rithik
+Date: 2025-12-19
 */
 
 public class BookProcessor {
